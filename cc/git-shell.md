@@ -17,7 +17,7 @@ eval "$(starship init zsh)"   # zsh
 
 - Powerline 是一个高度可定制的状态栏插件，广泛用于 shell（如 Bash、Zsh）以及其他工具（如 Vim）。
 - 它提供了丰富的图标和字体，可以显示当前路径、git 状态、时间等信息。
-- [Powerline GitHub] (https://github.com/powerline/powerline)
+- [Powerline GitHub](https://github.com/powerline/powerline)
 
 ```bash
 sudo apt-get install powerline
