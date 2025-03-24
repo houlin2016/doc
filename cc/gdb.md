@@ -10,6 +10,6 @@
 
 ## deque
 ```bash
-deque_._M_impl._M_start._M_cur->get()
-(deque_._M_impl._M_start._M_cur+1)->get()
+print deque_._M_impl._M_start._M_cur->get()
+print (deque_._M_impl._M_start._M_cur+1)->get()
 ```
